@@ -1,0 +1,8 @@
+# Angular / Node
+node_modules/
+
+# Java / Maven
+target/
+
+# config files
+config/
